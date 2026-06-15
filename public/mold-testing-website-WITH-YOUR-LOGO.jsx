@@ -84,7 +84,7 @@ const MoldTestingWebsite = () => {
             {/* Professional Logo - Your Actual Logo */}
             <div className="w-14 h-14 flex-shrink-0">
               <img 
-                src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/mold-testing-site/main/public/logo.png" 
+                src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/moldairtestingca" 
                 alt="Mold & Air Testing California" 
                 className="w-full h-full object-contain"
               />
@@ -672,7 +672,7 @@ const MoldTestingWebsite = () => {
         <div className="mb-8 pb-8 border-b border-blue-800 flex items-center gap-4">
           <div className="w-20 h-20 bg-blue-800 rounded-lg flex items-center justify-center flex-shrink-0">
             <img 
-              src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/mold-testing-site/main/public/logo.png" 
+              src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/moldairtestingca" 
               alt="Mold & Air Testing California" 
               className="w-full h-full object-contain p-2"
             />
